@@ -1,0 +1,90 @@
+body {
+	background-image: url("background.jpg");
+	background-attachment: fixed;
+}
+
+h1 {
+	font-family:arial,verdana,sans-serif;
+	font-size: 60pt;
+	text-align: center;
+	color:  #00ff00;
+	padding: 10px;
+	border: 5px solid #00ff00;
+	background-color: blue; 
+}
+
+a{
+	color: #00ff00;
+}
+
+a.black {
+	color: black;
+}
+
+.subHead {
+	font-family:arial,verdana,sans-serif;
+	font-size: 24pt;
+	text-align: center;
+	color: black;
+}
+
+.text {
+	font-family:arial,verdana,sans-serif;
+	font-size: 16pt;
+	color: white;
+	padding: 10px;
+	border: 5px solid #0000cc;
+	background-color: #0066ff;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.picture {
+	border: 5px solid #0000cc;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+.box {
+	background-color: #66ffff;
+	padding: 10px;
+	border: 5px solid #0000cc;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 1%;
+}
+
+.backBox{
+	background-color: rgba(80, 255, 255, 0.5);
+	padding: 10px;
+	border: 2px solid #0000cc;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-bottom: 1%;
+}
+
+.caption {
+	font-family:arial,verdana,sans-serif;
+	font-size: 10pt;
+	font-style: italic;
+	text-align: center;
+	color:  gray;
+}
+
+
+#toc {
+	float: left;
+	border: 5px solid #0000cc;
+	padding: 10px;
+	margin-left: 20px;
+	color: white;	
+	background-color: #0066ff;	
+	font-family:"Lucida Sans Unicode",serif;
+}
+
+#intro {
+	margin-left: 30%;
+	padding-bottom: 180px; 
+}
